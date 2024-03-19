@@ -25,3 +25,7 @@ replay_pid*
 
 .DS_Store
 
+/week_05_JPMS_Lambda_Stream/ProjectB/target/
+/week_05_JPMS_Lambda_Stream/ProjectA/target/
+/week_05_JPMS_Lambda_Stream/LambdaDemo/target/
+/week_05_JPMS_Lambda_Stream/classliststreamlambda/target/
