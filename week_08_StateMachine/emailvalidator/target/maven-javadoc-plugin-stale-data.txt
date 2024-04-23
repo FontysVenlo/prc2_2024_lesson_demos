@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+11
+-sourcepath
+'/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/src/main/java:/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'emailvalidator-prep 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'emailvalidator-prep 1.0-SNAPSHOT API'
+emailvalidator
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/src/main/java = 1713276355944
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/generated-sources/annotations = 1713361499977
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/tag-search-index.js = 1713361501801
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/overview-tree.html = 1713361501795
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/module-search-index.js = 1713361501800
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/index.html = 1713361501805
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/package-search-index.js = 1713361501800
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/link.svg = 1713361501813
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/index-all.html = 1713361501803
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/allpackages-index.html = 1713361501800
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/member-search-index.js = 1713361501800
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/copy.svg = 1713361501812
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/script.js = 1713361501812
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/stylesheet.css = 1713361501811
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/search-page.js = 1713361501814
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/help-doc.html = 1713361501810
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/element-list = 1713361501785
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/search.html = 1713361501804
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/allclasses-index.html = 1713361501799
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/type-search-index.js = 1713361501800
+/Users/ibrahimkouzak/Repos/prc2_2024_lesson_demos/week_08_StateMachine/emailvalidator/target/apidocs/search.js = 1713361501813

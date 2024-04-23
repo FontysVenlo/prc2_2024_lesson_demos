@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: emailvalidator.EmailValidatorTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.070 s -- in emailvalidator.EmailValidatorTest
+emailvalidator.EmailValidatorTest.testTopLevelDomain -- Time elapsed: 0.030 s
+emailvalidator.EmailValidatorTest.testGetValidAddresses -- Time elapsed: 0.005 s
+emailvalidator.EmailValidatorTest.emailValid(String, String, boolean)[1] -- Time elapsed: 0.012 s
+emailvalidator.EmailValidatorTest.emailValid(String, String, boolean)[2] -- Time elapsed: 0 s
+emailvalidator.EmailValidatorTest.emailValid(String, String, boolean)[3] -- Time elapsed: 0.001 s
+emailvalidator.EmailValidatorTest.emailValid(String, String, boolean)[4] -- Time elapsed: 0 s
+emailvalidator.EmailValidatorTest.emailValid(String, String, boolean)[5] -- Time elapsed: 0 s
+emailvalidator.EmailValidatorTest.emailValid(String, String, boolean)[6] -- Time elapsed: 0 s
