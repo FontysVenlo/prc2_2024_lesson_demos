@@ -10,8 +10,10 @@ public class Main {
 
     public static final int NACCOUNTS = 10;
     public static final double INITIAL_BALANCE = 1000;
-    //public static final double MAX_AMOUNT = 1000;
+
+    // Here we set high MAX_AMOUNT, so we produce the deadlock.
     public static final double MAX_AMOUNT = 2 * INITIAL_BALANCE;
+
     public static final int DELAY = 10;
 
     public static void main(String[] args) {

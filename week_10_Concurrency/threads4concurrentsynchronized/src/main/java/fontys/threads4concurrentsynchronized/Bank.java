@@ -24,6 +24,13 @@ public class Bank {
 
     /**
      * Transfers money from one account to another.
+     * Here you clearly see the use of synchronized word in the method signature.
+     * That block the method from other threads.
+     * Until the work of the current thread is done.
+     * This approach "synchronized" will automatically lock the method and unlock it.
+     * .
+     * When a condition is not met, you can let the thread waits by using "wait()" until resources are available.
+     * Only then and after "notifyAll()" is called to release the waiting threads.
      *
      * @param from the account to transfer from
      * @param to the account to transfer to

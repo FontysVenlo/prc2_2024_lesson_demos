@@ -16,6 +16,10 @@ public class Main {
     public static void main(String[] args) {
         var bank = new Bank(NACCOUNTS, INITIAL_BALANCE);
 
+        /*
+            Here you can see that with the same code from the previous example,
+            Only one thread at a time can use the transfer method.
+         */
         for (int i = 0; i < NACCOUNTS; i++) {
             int fromAccount = i;
 

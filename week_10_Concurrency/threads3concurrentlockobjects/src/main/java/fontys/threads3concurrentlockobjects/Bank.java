@@ -27,6 +27,12 @@ public class Bank {
 
     /**
      * Transfers money from one account to another.
+     * Here you clearly see the use of lock object that block the method from other threads,
+     * until the work of the current thread is done,
+     * and then it release the lock to allow a new thread to visit the method.
+     * .
+     * When a condition is not met, you can let the thread waits by using "await()" until resources are available.
+     * Only then and after "signalAll()" is called to release the waiting threads.
      *
      * @param from the account to transfer from
      * @param to the account to transfer to

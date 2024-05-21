@@ -16,6 +16,7 @@ public class Main {
     public static void main(String[] args) {
         var bank = new Bank(NACCOUNTS, INITIAL_BALANCE);
 
+        // The code here doesn't change from the previous example
         for (int i = 0; i < NACCOUNTS; i++) {
             int fromAccount = i;
 

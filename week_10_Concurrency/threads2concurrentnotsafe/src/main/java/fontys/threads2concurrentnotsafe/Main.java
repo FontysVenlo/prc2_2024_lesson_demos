@@ -14,8 +14,14 @@ public class Main {
     public static final int DELAY = 10;
 
     public static void main(String[] args) {
+
+        // Create new bank object
         var bank = new Bank(NACCOUNTS, INITIAL_BALANCE);
 
+        /* Here you can see how a thread is created and started with a task
+           The threads will enter the method randomly and change the object
+           which will our method threads unsafe.
+         */
         for (int i = 0; i < NACCOUNTS; i++) {
             int fromAccount = i;
 

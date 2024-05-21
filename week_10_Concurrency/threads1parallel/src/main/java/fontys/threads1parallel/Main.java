@@ -44,7 +44,7 @@ public class Main {
             }
         };
 
-        // Does not start new thread
+        // Does not start new thread, it start a new task within the same thread
         // task1.run();
         // task2.run();
         Thread thread = new Thread(task1);
